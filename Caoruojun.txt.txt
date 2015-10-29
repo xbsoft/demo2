@@ -1,0 +1,4 @@
+hello world!
+你能看见中文吗？
+这是曹若钧写的文件。
+this document was written by Caoruojun at 2015-10-29 15:42:08
